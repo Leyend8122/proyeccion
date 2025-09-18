@@ -1,4 +1,3 @@
-<h1>DESCRIPCION DE ARCHIVO</h1>
-![JUEGO DEL AMIGO SECRETO](https://github.com/Leyend8122/proyeccion/blob/25ca7434b2dac1814d27d9773bcca738ef240b07/gatito_computo.jpeg)
+![gatito_computo](https://github.com/Leyend8122/proyeccion/blob/9ca5dd0cf3a020dfb315427079b912b47045629b/gatito_computo.jpeg)
 
 --Aqui se encuentra mi comentario--
