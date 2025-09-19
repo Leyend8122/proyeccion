@@ -18,6 +18,10 @@
 - `Funcionalidad 2`: listar amigos
 - `Funcionalidad 3`: seleccion aleatoria del amigo secreto
 
+<div align = "center">
+  <img src="https://github.com/Leyend8122/proyeccion/blob/71b8d19aa13a1385086872af279d0a3a387d8ed6/tutorialv.gif" alt="Gato Computo" width="600" height="300" style="center">
+</div>
+
 <h4 align="center">
 **✅ Finalizado**
 </h4>
