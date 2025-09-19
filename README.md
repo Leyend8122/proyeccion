@@ -27,5 +27,5 @@
 </h4>
 
 ## Autores o personas desarrolladores del proyecto
-| <img src="https://github.com/Leyend8122/proyeccion/blob/ffcac652f8ddbf6f71be9bc7851c09a55793b5a9/autor.jpg" width=115><br><sub>Chavez Mendoza Elvis</sub> |
+| <img src="" width=115><br><sub>Chavez Mendoza Elvis</sub> |
 | :---: |
